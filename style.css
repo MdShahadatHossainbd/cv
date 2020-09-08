@@ -139,7 +139,7 @@ h1.name {
 	vertical-align: top;
 	display: inline-block;
 	width: 49.7%;
-	height: 60px;
+	height: 75px;
 }
 
 .section-title {
@@ -195,7 +195,7 @@ h1.name {
 
 .card {
 	width: 47.9%;
-	height: 210px;
+	height: 200px;
 	background-color: #EEF0F7;
 	display: inline-block;
 	margin: 7px 5px;
