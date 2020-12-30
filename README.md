@@ -8,7 +8,7 @@
 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://medium.com/@mdshahadathossainBD)
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/mdshahadathossain)
-[![Patreon](https://img.shields.io/badge/%20-Support-black?color=14171A&labelColor=04945c&logo=patreon&logoColor=ffffff)](https://www.patreon.com/harunurrashid)
+<1--[![Patreon](https://img.shields.io/badge/%20-Support-black?color=14171A&labelColor=04945c&logo=patreon&logoColor=ffffff)](https://www.patreon.com/harunurrashid)-->
 
 :wave: Hi there, My name is Harun-Ur-Rashid.😀 I'm 23 years old, I'm a self-taught Data Scientist.
 I've profound knowledge in Machine Learning, Deep Learning, Natural language processing, AI Software Development. 
