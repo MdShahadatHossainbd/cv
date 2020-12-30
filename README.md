@@ -10,11 +10,11 @@
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://medium.com/@mdshahadathossainBD)
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/mdshahadathossain)
 
-:wave: Hi there, My name is Md Shahadat Hossain .😀 I'm a self-taught Problem Solver.
+:wave: Hi there, My name is Md Shahadat Hossain . I'm a  Problem Solver.
 I've profound knowledge in Machine Learning, Deep Learning, Natural language processing, AI Software Development. 
 Currently, I completed Undergraduate in CSE from 🇧🇩. 
 I'm interested in doing research on text and image related problems. 
-I love to work with new technologies and playing with Data and AI.🤖
+I love to work with new technologies and playing with Data and AI.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MdShahadatHossainbd" alt="shahadat" /> </p>
 
