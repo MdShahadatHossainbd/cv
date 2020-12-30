@@ -34,7 +34,7 @@ I love to work with new technologies and playing with Data and AI.🤖
 
 <ul>
   <li>
-     <b>Top tech stories: </b> HackerNoon Online Publication,2020
+     <b>Projects: </b> "Paharadar": A suspicious act detected by the smart surveillance system.
    </li>
   <li>
      <b>1st Runner-Up: </b> NASA Space Apps Challenge organized by BASIS, 2019
@@ -56,7 +56,7 @@ I love to work with new technologies and playing with Data and AI.🤖
 </a>
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harunurrashid97&align=center&theme=radical&repo=100-Days-Of-ML-Code&show_owner=true)](https://github.com/harunurrashid97/100-Days-Of-ML-Code)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MdShahadatHossainbd&align=center&theme=radical&repo=100-Days-Of-ML-Code&show_owner=true)](https://github.com/MdShahadatHossainbd/Machine-Learning)
 
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MdShahadatHossainbd&theme=synthwave&show_icons=true" alt="mdshahadathossain" /> </h1>
