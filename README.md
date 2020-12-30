@@ -1,15 +1,15 @@
-<a target="_blank" href="https://mdshahadathossainbd.github.io/Curriculum-Vitae/"><img width="550" align="right" src="mdshahadathossain.jpg"></a>
+<a target="_blank" href="https://mdshahadathossainbd.github.io/Curriculum-Vitae/"><img width="550" align="right" src="mdshahadathossain.jpg" alt="mdshahadathossain"></a>
 
 # Md Shahadat Hossain
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:harunurrashid47@hotmail.com?subject=From%20GitHub&cc=harun15-6647@diu.edu.bd&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dharunurrashid97&suffix=%20Followers)](https://twitter.com/harunurrashid97)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/harun-ur-rashid6647/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mdshahadathossain/)
 
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://towardsdatascience.com/@harunurrashid97)
-[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/harunshimanto)
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://medium.com/@mdshahadathossainBD)
+[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/mdshahadathossain)
 [![Patreon](https://img.shields.io/badge/%20-Support-black?color=14171A&labelColor=04945c&logo=patreon&logoColor=ffffff)](https://www.patreon.com/harunurrashid)
-
+[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://twitter.com/mdshahadat_bd)
 
 :wave: Hi there, My name is Harun-Ur-Rashid.😀 I'm 23 years old, I'm a self-taught Data Scientist.
 I've profound knowledge in Machine Learning, Deep Learning, Natural language processing, AI Software Development. 
@@ -53,11 +53,11 @@ I love to work with new technologies and playing with Data and AI.🤖
 
 
 <p align="left">
-  <a href="https://github.com/harunurrashid97"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harunurrashid97&layout=compact&theme=radical" />
+  <a href="https://github.com/MdShahadatHossainbd"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harunurrashid97&layout=compact&theme=radical" />
 </a>
 </p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harunurrashid97&align=center&theme=radical&repo=100-Days-Of-ML-Code&show_owner=true)](https://github.com/harunurrashid97/100-Days-Of-ML-Code)
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=harunurrashid97&theme=synthwave&show_icons=true" alt="harunurrashid97" /> </h1>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=harunurrashid97&theme=synthwave&show_icons=true" alt="mdshahadathossain" /> </h1>
