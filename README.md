@@ -8,9 +8,8 @@
 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://medium.com/@mdshahadathossainBD)
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/mdshahadathossain)
-<1--[![Patreon](https://img.shields.io/badge/%20-Support-black?color=14171A&labelColor=04945c&logo=patreon&logoColor=ffffff)](https://www.patreon.com/harunurrashid)-->
 
-:wave: Hi there, My name is Harun-Ur-Rashid.😀 I'm 23 years old, I'm a self-taught Data Scientist.
+:wave: Hi there, My name is Md Shahadat Hossain .😀 I'm a self-taught Problem Solver.
 I've profound knowledge in Machine Learning, Deep Learning, Natural language processing, AI Software Development. 
 Currently, I completed Undergraduate in CSE from 🇧🇩. 
 I'm interested in doing research on text and image related problems. 
@@ -35,9 +34,10 @@ I love to work with new technologies and playing with Data and AI.🤖
 <ul>
   <li>
      <b>Projects: </b> "Paharadar": A suspicious act detected by the smart surveillance system.
-   </li>
+  </li>
+   
   <li>
-     <b>Projects: </b> Sign Language Recognition using Computer Vision, Real Time
+     <b>Projects: </b> Sign Language Recognition using Computer Vision, Real Time.
    </li> 
 </ul>
 
