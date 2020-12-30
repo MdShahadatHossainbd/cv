@@ -37,17 +37,8 @@ I love to work with new technologies and playing with Data and AI.🤖
      <b>Projects: </b> "Paharadar": A suspicious act detected by the smart surveillance system.
    </li>
   <li>
-     <b>1st Runner-Up: </b> NASA Space Apps Challenge organized by BASIS, 2019
+     <b>Projects: </b> Sign Language Recognition using Computer Vision, Real Time
    </li> 
-   <li>
-     <b>Awarded a bronze medal: </b> "Predicting Molecular Properties Competition Organized by Kaggle,2019
-   </li>
-   <li>
-     <b>Top3: </b> Participated at Bracathon-2019
-   </li>
-   <li>
-     <b>1st Runner up:</b> International Business Competition Organized by Hult Prize On Campus Round of Daffodil International University,2019
-   </li>
 </ul>
 
 
