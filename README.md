@@ -16,16 +16,16 @@ Currently, I completed Undergraduate in CSE from 🇧🇩.
 I'm interested in doing research on text and image related problems. 
 I love to work with new technologies and playing with Data and AI.🤖
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=harunshimanto" alt="harunshimanto" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MdShahadatHossainbd" alt="shahadat" /> </p>
 
 ## {...} My Stack
 
 ```json
 {
-   "languages": ["Python", "Java"],
+   "languages": ["Python", "Java","C","JavaScript"],
    "backend": ["Django","Flask"],
    "frontend": ["html", "css"],
-   "databases": ["mysql","postgresql"],
+   "databases": ["mysql","MongoDB"],
    "ai framework":["Keras","PyTorch","Scikit-learn","PySpark"],
    "experimenting": ["Django", "Heroku"]
 }
@@ -52,11 +52,11 @@ I love to work with new technologies and playing with Data and AI.🤖
 
 
 <p align="left">
-  <a href="https://github.com/MdShahadatHossainbd"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harunurrashid97&layout=compact&theme=radical" />
+  <a href="https://github.com/MdShahadatHossainbd"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MdShahadatHossainbd&layout=compact&theme=radical" />
 </a>
 </p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harunurrashid97&align=center&theme=radical&repo=100-Days-Of-ML-Code&show_owner=true)](https://github.com/harunurrashid97/100-Days-Of-ML-Code)
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=harunurrashid97&theme=synthwave&show_icons=true" alt="mdshahadathossain" /> </h1>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MdShahadatHossainbd&theme=synthwave&show_icons=true" alt="mdshahadathossain" /> </h1>
