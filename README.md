@@ -22,7 +22,8 @@ I love to work with new technologies and playing with Data and AI.
 
 ```json
 {
-   "languages": ["Python", "Java","C","JavaScript"],
+   "languages": ["Python", "Java","C","JavaScript",c++]
+   "programming":["Data Structure","Algorithm","Time Complexity","Space complexity"]
    "backend": ["Django","Flask"],
    "frontend": ["html", "css"],
    "databases": ["mysql","MongoDB"],
@@ -39,6 +40,10 @@ I love to work with new technologies and playing with Data and AI.
    
   <li>
      <b>Projects: </b> Sign Language Recognition using Computer Vision, Real Time.
+   </li>
+   
+   <li>
+     <b>Projects: </b> Sentiment Analysis in review.
    </li> 
 </ul>
 
